@@ -19,6 +19,18 @@ body {
   padding: 5px;
 }
 
+.cards{
+  border: 5px solid black;
+  width: 40%;
+  margin-bottom: 40px;
+  border-style: inset;
+  border-color: gray;
+  border-radius: 5px;
+  box-shadow: 3px 3px 5px grey;
+  text-align: center;
+  padding: 5px;
+}
+
 .row{
   display: flex;
   justify-content: space-between;
